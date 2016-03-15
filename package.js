@@ -2,7 +2,7 @@ Package.describe({
   name: 'shwaydogg:space-monkey',
   version: '0.0.1',
   // Brief, one-line summary of the package.
-  summary: 'Space Monkey brings the magic of Astronomer to the server, adds more automatic features and bypasses ad-blockers.',
+  summary: 'Space Monkey brings the magic of Astronomer analytics to the Server!',
   // URL to the Git repository containing the source code for this package.
   git: 'https://github.com/shwaydogg/space-monkey',
   // By default, Meteor will default to using README.md for documentation.
