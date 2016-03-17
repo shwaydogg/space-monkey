@@ -28,7 +28,7 @@ Now you can use `serverTrackedMeteor.methods`, instead of `Meteor.methods`, for 
 # Motivation:
 Automatically track logins and method calls on the server to bypass adblockers script blockers!
 
-[Ad Block Plus (ABP)](https://adblockplus.org/) blocks tracking scripts including Astronomer's automatic script it packages together for you on your Meteor client.  An Adobe & PageFair report estimated that in Q2 of 2015 %16 of global users were using ad blockers.  Users of your Meteor apps may tend to be tech savvy early adopters, so this number could be much higher!
+[Ad Block Plus (ABP)](https://adblockplus.org/) blocks tracking scripts including Astronomer's automatic script it packages together for you on your Meteor client.  An [Adobe & PageFair report](https://blog.pagefair.com/2015/ad-blocking-report/) estimated that in Q2 of 2015 16% of global users were using ad blockers.  Users of your Meteor apps may tend to be tech savvy early adopters, so this number could be much higher!
 
 By adding automatic analytics to the server you can ensure you are tracking all your users, even if they have adblockers installed AND it requires no extra thought!
 
